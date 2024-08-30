@@ -5,7 +5,7 @@
 
 ## Recent projects:
 
-- [Adventure Time](https://github.com/th1enq/Adventure-Time) - SDL 2D Indie Game written in C++ (only received 9.5 points on my Advanced Programming project in school :v)
+- [Adventure Time](https://github.com/th1enq/Adventure-Time) - SDL 2D Indie Game written in C++ 
 - [dotfiles](https://github.com/th1enq/dotfiles) - Configure of Arch Linux with WM : bspwm
 - Personal Website (Comming soon) - My personal website using tailwind css
 
