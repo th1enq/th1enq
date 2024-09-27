@@ -8,4 +8,4 @@
 - [Adventure Time](https://github.com/th1enq/Adventure-Time) - SDL2 Indie Game written in C++ 
 - [dotfiles](https://github.com/th1enq/dotfiles) - Configure of Arch Linux with WM : bspwm
 - [Personal Website](https://th1enq.github.io) - A blog where I share my journey through IT, life, and beyond...
-- Library Management System (Coming soon)
+- Library Management System (Private Mode)
