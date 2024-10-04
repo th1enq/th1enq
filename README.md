@@ -1,6 +1,6 @@
 ## Th1enq
 - 2005
-- 2nd year CS student @ [VNU University of Engineering and Technology (VNU - UET) ](https://uet.vnu.edu.vn)
+- 2nd year IT student @ [VNU University of Engineering and Technology (VNU - UET) ](https://uet.vnu.edu.vn)
 - I use Arch Linux btw.
 
 ## Recent projects:
