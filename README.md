@@ -9,6 +9,7 @@
 - [dotfiles](https://github.com/th1enq/dotfiles) - Configure of Arch Linux with WM : bspwm
 - [Personal Website](https://th1enq.github.io) - A blog where I share my journey through IT, life, etc...
 - Library Management System (Private Mode)
+- Code Battle (Comming Soon) - Code Battle is a 1v1 competitive programming platform.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
