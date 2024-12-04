@@ -8,7 +8,7 @@
 - [Adventure Time](https://github.com/th1enq/Adventure-Time) - SDL2 Indie Game written in C++ 
 - [dotfiles](https://github.com/th1enq/dotfiles) - Configure of Arch Linux with WM : bspwm
 - [Personal Website](https://th1enq.github.io) - A blog where I share my journey through IT, life, etc...
-- Library Management System (Private Mode)
+- [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform by Java
 - Code Battle (Comming Soon) - Code Battle is a 1v1 competitive programming platform.
 
 <h3 align="left">Connect with me:</h3>
