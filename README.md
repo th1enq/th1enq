@@ -2,7 +2,7 @@
 
 - 2005
 - 2nd-year IT student at [VNU University of Engineering and Technology (VNU - UET)](https://uet.vnu.edu.vn)
-- Backend Development Intern at [Viettel Cyber Security](https://viettelcybersecurity.com/vi/vcs-gioi-thieu/)](https://viettelcybersecurity.com/vi/vcs-gioi-thieu/)
+- Backend Development Intern at [Viettel Cyber Security](https://viettelcybersecurity.com/vi/vcs-gioi-thieu/)
 - I use ~~Arch~~ Linux btw.
 
 ## Recent projects:
