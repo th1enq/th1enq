@@ -1,17 +1,16 @@
 # <h1 align="center">Hi 👋, I'm th1enq</h1>
 
 - 2005
-- 2nd year IT student @ [VNU University of Engineering and Technology (VNU - UET) ](https://uet.vnu.edu.vn)
+- 2nd-year IT student at [VNU University of Engineering and Technology (VNU - UET)](https://uet.vnu.edu.vn)
+- Backend Development Intern at [Viettel Cyber Security](https://viettelcybersecurity.com/vi/vcs-gioi-thieu/)](https://viettelcybersecurity.com/vi/vcs-gioi-thieu/)
 - I use ~~Arch~~ Linux btw.
 
 ## Recent projects:
 
-- [Adventure Time](https://github.com/th1enq/Adventure-Time) - SDL2 Indie Game written in C++ 
-- [dotfiles](https://github.com/th1enq/dotfiles) - Configure of Arch Linux with WM : bspwm
-- [Personal Website](https://th1enq.github.io) - A blog where I share my journey through IT, life, etc...
-- [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform by Java
-- [CatShell](https://github.com/th1enq/CatShell) - UNIX Shell implementation by C
-- Code Battle (Comming Soon) - Code Battle is a 1v1 competitive programming platform.
+- [Adventure Time](https://github.com/th1enq/Adventure-Time) - Indie Game using C++ 
+- [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform using Java
+- [CatShell](https://github.com/th1enq/CatShell) - UNIX Shell implementation using C
+- [GoVibe](https://github.com/th1enq/GoVibe) - Simple Social Network using Golang
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
