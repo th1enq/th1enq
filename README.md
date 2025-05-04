@@ -10,14 +10,14 @@
 
 - [Adventure Time](https://github.com/th1enq/Adventure-Time) - Indie Game using C++ 
 - [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform using Java
-- [CatShell](https://github.com/th1enq/CatShell) - UNIX Shell implementation using C
-- [GoVibe](https://github.com/th1enq/GoVibe) - Simple Social Network using Golang
+- [Egg Spinning](https://github.com/th1enq/egg-spinning) - A C program that renders a spinning 3D egg using ASCII characters in the terminal.
+- [Go Map](https://github.com/th1enq/go-map) - Go-Map is a comprehensive geospatial application built with Golang and Nextjs
 - [Personal Website](https://th1enq.github.io/) - My personal website where I share my blogs, competitive programming content, and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/th1enq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th1enq" height="30" width="40" /></a>
-<a href="https://fb.com/th1enq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="th1enq" height="30" width="40" /></a>
+<a href="https://fb.com/th1enq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebooNextjsk.svg" alt="th1enq" height="30" width="40" /></a>
 <a href="https://discord.gg/khok1lanroithoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khok1lanroithoi" height="30" width="40" /></a>
 </p>
 
