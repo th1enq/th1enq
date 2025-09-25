@@ -11,7 +11,7 @@
 - [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform using Java
 - [Egg Spinning](https://github.com/th1enq/egg-spinning) - A C program that renders a spinning 3D egg using ASCII characters in the terminal.
 - [Go Map](https://github.com/th1enq/go-map) - Go-Map is a comprehensive geospatial application built with Golang and Nextjs
-- [Personal Website](https://th1enq.github.io/) - My personal website where I share my blogs, competitive programming content, and more.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
