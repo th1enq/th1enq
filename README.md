@@ -7,13 +7,6 @@
 - Software Engineer at [Viettel Cyber Security](https://viettelsecurity.com/)
 - I use ~~Arch~~ Linux btw.
 
-## Recent projects:
-- [Adventure Time](https://github.com/th1enq/Adventure-Time) - Indie Game using C++ 
-- [Library Management System](https://github.com/th1enq/Library-Management-System-JAVA) - Library Management System Platform using Java
-- [Egg Spinning](https://github.com/th1enq/egg-spinning) - A C program that renders a spinning 3D egg using ASCII characters in the terminal.
-- [Go Map](https://github.com/th1enq/go-map) - Go-Map is a comprehensive geospatial application built with Golang and Nextjs
-
-
 ## Languages and Tools:
 <div>
   <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" height="50px" />
