@@ -3,7 +3,6 @@
 - Software Engineer at [One mount](https://onemount.com/)
 - 2005
 - 3rd-year IT student at [VNU University of Engineering and Technology (VNU - UET)](https://uet.vnu.edu.vn)
-- I use ~~NixOS~~ btw.
 
 ## Languages and Tools:
 <div>
